@@ -1,0 +1,17 @@
+#t1{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+}
+.cuadrado1{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+}
+.fila{
+    padding: 2px;
+    margin: auto;
+}

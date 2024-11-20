@@ -11,30 +11,35 @@
     font-family:sans-serif;
 }
 #id_parrafo4{
-    text-shadow:-4px 3px 5px rgb(238, 152, 24);
+    text-shadow:-4px 3px 5px rgb(14, 233, 62);
     font-weight:bold;
 }
 #div1{
     background-color: hsl(96, 62%, 77%);
     border-radius: 10px;
-    height: 100px;
+    margin: 5px;
+    height: 200px;
     width: 300px;
-    background-position: right, top;
     display: inline-block;
 }
 #div2{
     background-color: hsl(177, 41%, 71%);
     border-radius: 10px;
-    height: 100px;
+    margin: 5px;
+    height: 200px;
     width: 300px;
-    background-position: center, top;
     display: inline-block;
 }
 #div3{
     background-color: hsl(298, 41%, 71%);
     border-radius: 10px;
-    height: 100px;
+    margin: 5px;
+    height: 200px;
     width: 300px;
-    background-position: left, top;
     display: inline-block;
+}
+.rojo{
+    background-color: hsl(0, 82%, 48%);
+    height: 50px;
+    width: 100px;
 }

@@ -1,0 +1,46 @@
+#fondo{
+    background-color: #B5F4FF;
+}
+#titulo{
+    font-family: Helvetica;
+}
+#encabezado{
+    background-color: #007bff;
+
+}
+.enlaces{
+    color: white;
+    text-decoration: none
+}
+.enlaces:hover{
+     color:blue;
+}
+#contenido{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+    font-family: Helvetica;
+}
+#contenido h2{
+    font-size: 30px;
+}
+#contenido img{
+    width: 300px;
+}
+#pie{
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    background-color: #333
+}
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.item{
+    text-align: center;
+}
